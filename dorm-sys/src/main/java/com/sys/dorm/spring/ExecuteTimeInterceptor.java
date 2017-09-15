@@ -4,7 +4,7 @@
  * Filename:		com.sys.dorm.security.interceptor.ExecuteTimeInterceptor.java
  * Class:			ExecuteTimeInterceptor
  * Date:			2013-4-17
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          2.0.0
  * Description:		
  *
@@ -23,7 +23,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 
 /**
  * 
- * @author <a href="mailto:xupk@uxunchina.com">xupk</a> Version 2.0.0
+ * @author <a href="mailto:211450675@qq.com">xupk</a> Version 2.0.0
  * @since 2016-3-17 下午10:06:25
  */
 

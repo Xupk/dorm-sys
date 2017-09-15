@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.authenticate.IncorrectCaptchaException.java
  * Class:			IncorrectCaptchaException
  * Date:			2015-8-7
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -17,7 +17,7 @@ import org.apache.shiro.authc.AuthenticationException;
 
 /**
  * 
- * @author <a href="mailto:xupk@uxunchina.com">xupk</a> Version 1.1.0
+ * @author <a href="mailto:211450675@qq.com">xupk</a> Version 1.1.0
  * @since 2015-8-7 上午9:22:21
  */
 

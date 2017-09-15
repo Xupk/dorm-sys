@@ -21,7 +21,7 @@ import com.octo.captcha.service.image.ImageCaptchaService;
 /**
  * 提供验证码图片的Servlet
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2013-3-26 下午5:22:33
  */

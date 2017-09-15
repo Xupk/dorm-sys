@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.util.dwz.AjaxObject.java
  * Class:			AjaxObject
  * Date:			2015-6-8
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -28,7 +28,7 @@ package com.sys.dorm.util.dwz;
  * {"statusCode":"200", "message":"操作成功", "navTabId":"navNewsLi", "forwardUrl":"", "callbackType":"closeCurrent"}
  * {"statusCode":"300", "message":"操作失败"}
  * {"statusCode":"301", "message":"会话超时"}
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-6-8 下午6:46:53 
  */

@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.util.dwz.Pager.java
  * Class:			Pager
  * Date:			2015-6-11
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -16,7 +16,7 @@ package com.sys.dorm.util.dwz;
 
 /** 
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-6-11 上午10:28:30 
  */

@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.service.impl.ServiceUtil.java
  * Class:			ServiceUtil
  * Date:			2015-9-14
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -22,7 +22,7 @@ import com.sys.dorm.service.CacheService;
 
 /** 
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-9-14 上午9:59:55 
  */

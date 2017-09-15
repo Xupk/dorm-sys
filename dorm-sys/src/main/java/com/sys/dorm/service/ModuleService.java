@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.service.ModuleService.java
  * Class:			ModuleService
  * Date:			2015-8-6
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -23,7 +23,7 @@ import com.sys.dorm.util.dwz.Page;
 
 /** 
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-8-6 上午9:32:17 
  */

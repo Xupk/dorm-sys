@@ -16,7 +16,7 @@ import com.sys.dorm.util.dwz.AjaxObject;
 /**
  * 处理Hibernate Validator验证出错的类。返回带错误信息和状态码的ajaxobject字符串。
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  2.0.0
  * @since   2013-4-23 下午3:06:34
  */

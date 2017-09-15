@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.service.impl.UserServiceImpl.java
  * Class:			UserServiceImpl
  * Date:			2015-8-7
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -35,7 +35,7 @@ import com.sys.dorm.util.dwz.PageUtils;
 
 /**
  * 
- * @author <a href="mailto:xupk@uxunchina.com">xupk</a> Version 1.1.0
+ * @author <a href="mailto:211450675@qq.com">xupk</a> Version 1.1.0
  * @since 2015-8-7 下午3:14:29
  */
 @Service

@@ -4,7 +4,7 @@
  * Filename:		com.sys.dorm.entity.main.CustomPermission.java
  * Class:			CustomPermission
  * Date:			2013-4-16
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          2.0.0
  * Description:		
  *
@@ -35,7 +35,7 @@ import com.sys.dorm.entity.IdEntity;
 
 /** 
  * 除了CRUD以外的自定义权限 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  2.0.0
  * @since   2013-4-16 下午1:34:54 
  */

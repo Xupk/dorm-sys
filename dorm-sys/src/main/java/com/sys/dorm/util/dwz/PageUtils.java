@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.util.dwz.SpringDataJpaPageConvert.java
  * Class:			SpringDataJpaPageConvert
  * Date:			2015-8-6
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -22,7 +22,7 @@ import org.springframework.data.domain.Sort;
 /**
  * 解决dwz page 的遗留问题，使程序更易移植和替换
  * 
- * @author <a href="mailto:xupk@uxunchina.com">xupk</a> Version 1.1.0
+ * @author <a href="mailto:211450675@qq.com">xupk</a> Version 1.1.0
  * @since 2015-8-6 下午10:03:18
  */
 

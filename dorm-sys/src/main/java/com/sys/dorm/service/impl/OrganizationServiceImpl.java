@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.service.impl.OrganizationServiceImpl.java
  * Class:			OrganizationServiceImpl
  * Date:			2015-8-27
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -30,7 +30,7 @@ import com.sys.dorm.util.dwz.PageUtils;
 
 /** 
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-8-27 下午3:56:46 
  */

@@ -4,7 +4,7 @@
  * Filename:		com.ygsoft.security.controller.IndexController.java
  * Class:			IndexController
  * Date:			2015-8-2
- * Author:			<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * Author:			<a href="mailto:211450675@qq.com">xupk</a>
  * Version          1.1.0
  * Description:		
  *
@@ -39,7 +39,7 @@ import com.sys.dorm.util.dwz.AjaxObject;
 
 /** 
  * 	
- * @author 	<a href="mailto:xupk@uxunchina.com">xupk</a>
+ * @author 	<a href="mailto:211450675@qq.com">xupk</a>
  * Version  1.1.0
  * @since   2015-8-2 下午5:45:57 
  */
